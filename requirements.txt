@@ -1,0 +1,6 @@
+python-binance
+pandas-ta
+requests
+numpy
+pandas
+setuptools
